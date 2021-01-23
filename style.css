@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+}
+header{ 
+    background-color:aquamarine;
+    color:indigo;
+    padding:10px;
+}
+h1{
+color:indigo;
+text-align:center;
+background-color:lightskyblue;
+padding:10px;
+}
+footer{
+background-color:lightskyblue ;
+}
+footer p {
+border:5px solid black;
+padding:10px;
+}
+nav{
+background-color:tomato ;
+color:white;
+}
+
+nav a{
+color:white;
+padding:10px ;
+}
+
